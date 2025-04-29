@@ -3,3 +3,7 @@ Process the data
 feature 1
 checking if a commit is made from feature1 branch and then we switch to main branch to use the command "git push"
 will it say if the branch main is already up to date!
+
+conclusion:
+yes by default the command git push will only push the currect active branch to the origin/activebranch 
+so to push a branch to the remote repo without actually in that branch we have to mention git push origin <branch to push to remote>
