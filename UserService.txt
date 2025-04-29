@@ -11,3 +11,4 @@ yes by default the command git push will only push the currect active branch to 
 so to push a branch to the remote repo without actually in that branch we have to mention git push origin <branch to push to remote>
 
 parent feature1 feature1
+parent main feature1 commit 1
