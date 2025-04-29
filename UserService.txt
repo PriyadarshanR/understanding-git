@@ -14,3 +14,5 @@ parent feature1 feature1
 parent main feature1 commit 1
 first commit in feature2 branch
 second commit in feature2 branch
+
+changes were made in main branch
